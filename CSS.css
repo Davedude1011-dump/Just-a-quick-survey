@@ -1,0 +1,5 @@
+body {
+    height: 2000px;
+    overflow: hidden;
+    background-image: linear-gradient(rgb(0, 255, 213), rgb(0, 0, 255))
+}
